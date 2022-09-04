@@ -11,7 +11,7 @@ categories = [
 ]
 series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
-image = "pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg"
+image = "the-creative-exchange-d2zvqp3fpro-unsplash_huf941de4769045cdfa8c9ee7036519a2a_35369_1600x0_resize_q75_box.jpg"
 +++
 
 
