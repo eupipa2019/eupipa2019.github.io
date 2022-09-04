@@ -185,18 +185,7 @@ menu:
     main: []
 
     social:
-        - identifier: github
-          name: GitHub
-          url:
-          params:
-              icon: 
-
-        - identifier: twitter
-          name: Twitter
-          url: 
-          params:
-              icon:
-
+       
 related:
     includeNewer: true
     threshold: 60
