@@ -30,4 +30,4 @@ Mas o que me deixou de pêlo iriçado… documentário sobre o que os gatos pens
 Xoxo,
 Pipa
 
-![Example image](/meme.jpeg)
+![Example image](meme.jpeg)
