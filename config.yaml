@@ -64,7 +64,7 @@ params:
         provider: disqus
 
         disqusjs:
-            shortname: disqus_GOidMsd6B8
+            shortname: https-eupipa2019-github-io
             apiUrl:
             apiKey:
             admin:
