@@ -11,7 +11,7 @@ languages:
         weight: 1
   
 # Change it to your Disqus shortname before using
-disqusShortname: hugo-theme-stack
+disqusShortname: https-eupipa2019-github-io
 
 # GA Tracking ID
 googleAnalytics:
