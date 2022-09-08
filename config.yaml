@@ -64,7 +64,7 @@ params:
         provider: disqus
 
         disqusjs:
-            shortname:
+            shortname: disqus_GOidMsd6B8
             apiUrl:
             apiKey:
             admin:
