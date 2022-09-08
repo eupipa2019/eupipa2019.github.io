@@ -64,11 +64,11 @@ params:
         provider: disqus
 
         disqusjs:
-            shortname: eupipa2019.github.io
+            shortname: https-eupipa2019-github-io
             apiUrl: 
             apiKey:
             admin:
-            adminLabel:
+            adminLabel: Eu, Pipa
 
         utterances:
             repo:
