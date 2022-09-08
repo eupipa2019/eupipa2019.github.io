@@ -68,7 +68,7 @@ params:
             apiUrl: 
             apiKey:
             admin:
-            adminLabel: Eu, Pipa
+            adminLabel:
 
         utterances:
             repo:
