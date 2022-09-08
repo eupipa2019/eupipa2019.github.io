@@ -61,7 +61,7 @@ params:
 
     comments:
         enabled: true
-        provider: disqusjs
+        provider: disqus
 
         disqusjs:
             shortname: https-eupipa2019-github-io
