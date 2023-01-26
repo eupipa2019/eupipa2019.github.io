@@ -1,33 +1,30 @@
 +++
 author = "eupipa"
-title = "Desabafo1"
-date = "2022-08-28"
+title = "Desabafo2"
+date = "2023-01-25"
 description = "..."
 tags = [
-    "fodida",
+    "farta de aturar merdas",
 ]
 categories = [
-    "fodida",
+    "farta de aturar merdas",
 ]
 series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
-image = "the-creative-exchange-d2zvqp3fpro-unsplash_huf941de4769045cdfa8c9ee7036519a2a_35369_1600x0_resize_q75_box.jpg"
+image = "pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg"
 +++
 
 
 ## Miau, biches!
 
-Uma gaja teve de vir aqui desabafar. 
-Digam-me que não estou sozinha.
-Que merda andam os humanos a ver na TV?
-Humanos pré-puberes que atacam uma pessoa e sangram do nariz? 
-Please, eu fazia melhor sem partir uma unha. E o que raio é um vecna?
+Então, tiveram saudades de mim, seus enegrumes?
+Eu não, é por isso que não escrevi nada aqui lol
 
-Mais um game of thrones? Digam-me que não é verdade. Vai ser outro final de bosta e depois é ouvi-los a reclamar enquanto tento dormir.
+Mas agora tenho que desabafar! É agora que vou arranhar os meus donos durante o sono!
 
-Mas o que me deixou de pêlo iriçado… documentário sobre o que os gatos pensam?? Chocada! Como se algum dia aqueles burros conseguissem atingir. Mas devo admitir que fiquei com vergonha alheia daqueles gatos influencers vendidos por meia dúzia de refeições grátis. A difamar a espécie superior. 
+Não é que eles foram de férias e deixaram-me sozinha e abandonada... A mim, que lhe aqueço os pés e lhes aparo as flores... Que tristeza, que desconsideração
+
+Mas deixem lá, vão chegar a casa e vão ter o chão todo vomitado
 
 Xoxo,
 Pipa
-
-![Example image](meme.jpeg)
